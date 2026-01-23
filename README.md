@@ -2,6 +2,7 @@
 
 ### 🔖 [Today](https://apps.apple.com/cn/app/id6446240226)
 Today is an app focused on building good habits with a clean interface.
+
 📆 Daily • 📊 Progress • ☁️ iCloud sync • 💡 Clean design  
 
 ### 🎉 [记录Box](https://apps.apple.com/cn/app/id1579304692)
