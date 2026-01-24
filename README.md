@@ -10,6 +10,3 @@ Today is an app focused on building good habits with a clean interface.
 A multifunctional recording app for managing life’s details, Designed for simplicity, privacy, and efficiency.
 
 💰 **Bookkeeping**, ⏰ **Moments**, 🔐 **Password Manager**, 📝 **Notes (Markdown)**, all in one box.  
-
-
-> “Keep it simple.”
