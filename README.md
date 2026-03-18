@@ -5,7 +5,7 @@ A conversational recording tool for capturing thoughts, images, and memos instan
 
 ✨ **Real-time recording** • 🔍 **Search & Filter** • ☁️ **iCloud Sync** • 🤝 **Collaboration & Sharing** • 📌 **Favorites**
 
-### 🖥️ [Now for Mac](https://apps.apple.com/app/id6758816670)
+### 🖥️ [Now for Mac](https://apps.apple.com/app/id6759785632)
 Native macOS companion for Now with AppKit + SwiftUI integration, multi-window support, and a native Markdown editor.
 
 🪟 **Multi-window design** • 🛠️ **Native toolbar** • 📝 **Markdown editor** • ☁️ **Full iCloud sync with iOS**
