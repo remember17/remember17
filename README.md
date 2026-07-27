@@ -1,39 +1,43 @@
 # 🚀 My Indie Apps
 
-### 💬 [Now · iOS](https://apps.apple.com/app/id6758816670)
-
-A native note-taking app built around one simple habit: **message yourself**.
-
-Start a note as quickly as sending a message. Every message becomes a note you can keep editing, expanding, and organizing over time. Now connects quick capture with a focused writing workflow, so ideas grow naturally from fragments into clear, structured content.
-
-✍️ **Chat-style capture** · 🖼️ **Text & images** · 📝 **Markdown editor** · ☁️ **iCloud sync** · 🤝 **iCloud collaboration** · 🔒 **Privacy-first**
+Small, focused apps designed and built for Apple platforms.
 
 ---
 
-### 🖥️ [Now · macOS](https://apps.apple.com/app/id6759785632)
+## 🖥️ [Now · Mac](https://apps.apple.com/app/id6759785632)
 
-Keep turning quick captures into finished writing in a clean, focused Markdown workspace.
+> **Chat-style capture. Desktop-grade Markdown.**
 
-A native macOS companion designed specifically for its platform. Edit, Preview, and Split view modes fit longer writing sessions, while iCloud sync and collaboration keep content aligned across iPhone and Mac.
+The native Mac companion to Now. Develop quick thoughts into polished writing, search across conversations, or work directly with Markdown and text files in real folders on your Mac.
 
-🪟 **Multi-window** · ✂️ **Edit / Preview / Split** · 📝 **Markdown workspace** · ☁️ **Full iCloud sync with iOS** · 🔒 **Privacy-first**
-
----
-
-### 🔖 [Today](https://apps.apple.com/app/id6446240226)
-
-A habit app for people who don't want a complicated system — **just focus on today**.
-
-No complex plans, just do what matters now. Add the habits you want to stick with, and Today auto-generates your daily list. Streaks, heatmaps, and custom reminders keep you on track without any overhead.
-
-📆 **Auto daily list** · ✅ **One-tap done** · 🔥 **Streaks & heatmap** · ⏰ **Custom reminders** · ☁️ **iCloud sync**
+`Edit / Preview / Split` · `Files workspace` · `Global search` · `Multi-window` · `Images` · `iCloud sync with iPhone`
 
 ---
 
-### 🎉 [记录Box](https://apps.apple.com/app/id1579304692)
+## 💬 [Now · iPhone](https://apps.apple.com/app/id6758816670)
 
-Install fewer apps — keep notes, bookkeeping, memories, and passwords all in one place.
+> **Message yourself. Capture ideas fast.**
 
-RecordBox covers four everyday recording needs in a single minimalist app: Markdown notes, income & expense tracking with budget charts, moment countdowns with reminders, and a secure password vault. Data stays on-device or optionally syncs to your own iCloud.
+Start with a quick message, then turn it into a complete Markdown note. Now connects effortless capture with focused writing, keeping ideas organized without interrupting your flow.
 
-📝 **Notes (Markdown)** · 💰 **Bookkeeping & budgets** · ⏰ **Moments & countdowns** · 🔐 **Password vault** · ☁️ **iCloud sync**
+`Chat-style capture` · `Text & images` · `Markdown` · `Search & favorites` · `Widgets` · `iCloud sync` · `Privacy-first`
+
+---
+
+## 🔖 [Today](https://apps.apple.com/app/id6446240226)
+
+> **No complex plans. Just focus on today.**
+
+A lightweight habit tracker that automatically builds your daily list. Check in with one tap, set your own reminders, and make consistency visible through streaks, trends, and heatmaps.
+
+`Automatic daily list` · `One-tap check-in` · `Custom reminders` · `Streaks & trends` · `Habit heatmap` · `iCloud sync`
+
+---
+
+## 🎉 [RecordBox](https://apps.apple.com/app/id1579304692)
+
+> **Fewer apps. More kinds of records.**
+
+Keep everyday information in one place: Markdown notes, bookkeeping and budgets, moments and countdowns, password notes, and custom search shortcuts. Your data stays on your device or syncs through your own iCloud.
+
+`Markdown notes` · `Bookkeeping & budgets` · `Moments & countdowns` · `Password generator` · `Custom search` · `iCloud sync`
